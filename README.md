@@ -1,6 +1,11 @@
 # Predicting Hospital Length of Stay (LOS) with Explainable Machine Learning  
 **MIMIC-III Demo-Scale Case Study**
 
+## My Project Portfolio:
+https://github.com/m-zhokhova/data-science-portfolio
+
+---
+
 ## Overview
 
 This project explores hospital Length of Stay (LOS) prediction using real-world clinical data from the MIMIC-III database.
